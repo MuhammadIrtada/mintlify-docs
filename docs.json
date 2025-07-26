@@ -1,68 +1,52 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Verse AI",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#466ee9",
+    "light": "#4c79c2",
+    "dark": "#82c6fa"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/VERSE AI 3D 2.png",
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Introduction",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "invest",
+              "security"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Verse AI Ecosystem",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "howitworks",
+              "features",
+              "pricing"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "$VERSE Tokenomics",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "tokendetails",
+              "tokendistribution",
+              "tokenutility"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Roadmap",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+              "roadmap"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Get Started",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "community"
             ]
           }
         ]
@@ -71,26 +55,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Verse AI Platform",
+          "href": "https://verseai.app/",
+          "icon": "globe"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/VERSE AI 3D 2.png",
+    "dark": "/logo/VERSE AI 3D 2.png"
   },
   "navbar": {
     "links": [
@@ -107,9 +81,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://verseai.app/",
+      "x": "https://x.com/verseaiofficial/",
+      "telegram": "https://t.me/VerseAIETH"
     }
   }
 }
